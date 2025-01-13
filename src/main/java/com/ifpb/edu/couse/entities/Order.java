@@ -2,7 +2,6 @@ package com.ifpb.edu.couse.entities;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.ifpb.edu.couse.entities.enums.OrderStatus;
 import jakarta.persistence.*;
 
