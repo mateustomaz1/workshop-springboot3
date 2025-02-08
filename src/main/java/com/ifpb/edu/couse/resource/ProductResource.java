@@ -2,9 +2,7 @@ package com.ifpb.edu.couse.resource;
 
 
 import com.ifpb.edu.couse.entities.Product;
-import com.ifpb.edu.couse.entities.User;
 import com.ifpb.edu.couse.services.ProductService;
-import com.ifpb.edu.couse.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

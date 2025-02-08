@@ -1,7 +1,6 @@
 package com.ifpb.edu.couse.services;
 
 import com.ifpb.edu.couse.entities.Order;
-import com.ifpb.edu.couse.entities.User;
 import com.ifpb.edu.couse.repositories.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
